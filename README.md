@@ -10,6 +10,8 @@
 
 img文件变成了4k的大小,速度略微提升,基本上能达到usb2.0的最高速速度了;
 
+# command demo
+sudo nohup /bin/bash /data/soft/rpi/rpi-backup.sh /dev/sda1 > /data/soft/log/rpi-backup_`date '+%Y%m%d_%H%M%S'`.txt 2>&1
 
 
 
