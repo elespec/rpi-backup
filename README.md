@@ -4,7 +4,11 @@
 基于 https://github.com/conanwhf/RaspberryPi-script 修改
 
 
-备份所用的磁盘必须得是EXT 格式,或者NTFS格式,不支持exFAT,我把img文件变成了4k的大小,速度略微提升,基本上能达到usb2.0的最高速速度了;
+备份所用的磁盘必须得是EXT[3,4]格式或者NTFS格式,不支持exFAT;
+
+img文件变成了4k的大小,速度略微提升,基本上能达到usb2.0的最高速速度了;
+
+
 
 
 # RaspberryPi-script
