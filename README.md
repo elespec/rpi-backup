@@ -1,7 +1,9 @@
 # rpi-backup
 本项目,自用脚本,持续使用中,基于下面的项目小小修改,提升了备份速度,修改了挂载方式;
 
-从 https://github.com/conanwhf/RaspberryPi-script 拷贝过来的, 感谢大神,为嘛不fork,因为这个东西可能会被我改的不成样子,不想污染master;
+从 https://github.com/conanwhf/RaspberryPi-script 拷贝过来的, 感谢大神,大神说他生娃,带娃去了,弃坑了;
+
+为嘛不fork,因为这个东西可能会被我改的不成样子,不想污染master;
 
 
 备份所用的磁盘必须得是EXT[3,4]格式或者NTFS格式,不支持exFAT;
